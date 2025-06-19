@@ -1,0 +1,65 @@
+{
+  "description": "Electric Vehicle charging infra",
+  "company_overview": "I-Charge Solutions International Co. Ltd. (ICS) was co-founded by Ms. Rosemary Tan and Dr. Benjamin Ho in year 2016. The company designed and launched BoltTM online EV charging booking system. Rosemary has over 15 years of digital & mobile business experience in Pan Asia territories. She previously managed digital divisions at Sony, Universal & UNICEF HK. In 2008, Rosemary was elected as âTop 50 Women in Mobile Contentâ. Dr. Ho is a HK University lecturer in the field of Mechanical Engineering and Building Services. ICS team has expertise in electrical and mechanical engineering, digital marketing, information technology and mobile services. The team is dedicated to contribute to environmental protection through technical innovations and energy optimization product and services. ICS aspires to resolve the pain-points of charging for EV drivers, and assist the carpark owners, BMO and Owner Corporations to operate and manage charging stations cost effectively & efficiently. They want to contribute to the acceleration of EV adaptation in HK, and, in turn, lower carbon emission to the atmosphere.",
+  "headquarters_location": "Hong Kong Island, Hong Kong, Asia",
+  "founder_names": [
+    "Benjamin Ho",
+    "Rosemary Tan"
+  ],
+  "industry_categories": [
+    "Apps",
+    "Information Technology",
+    "Internet of Things"
+  ],
+  "news": "Three years on since our first drive, the Bolt EV now comes in a range of brighter colors and with a 10 percent bigger battery. Next year, it's getting a styling refresh that should also bring faster DC fast charging, as well as adaptive cruise control (but maybe not Super Cruise) Next year, the Bolt EV will look a bit different because it's getting a styling refresh. The styling refresh should also bring faster DC fast charging, as well as adaptive cruise control. The Bolt's interior is airy and offers great visibility, but the front seats aren't the most c. The Chevrolet Bolt EV was the first battery electric vehicle with more than 200 miles of range at a price normal people could afford. Chevy did recently bump up the Bolt's range with better battery chemistry and a bigger capacity, and it's offering discounts of up to $8,500 on the once-granted model. The main difference between the model year 2020 Bolt EV and the ones we've driven in the past is in the battery. Chevrolet wanted more range, so LG Chem came up with some new lithium-ion chemistry. The pack is still the same size and shape, and it's still made up of 288 individual cells, but it now has a useable 66kWh. The sector may be past nascent elsewhere, but the momentum it gathers in the continent is going past trend. A series of spinoffs and launches prove that African ventures are vying to digitize the food delivery market share. UberEats decided to go local in South Africa. The American company has already pocketed most of Africa's ride-hailing profits.",
+  "founder_info": {
+    "Benjamin Ho": {
+      "wikipedia_summary": "Hồ Chí Minh (born Nguyễn Sinh Cung; 19 May 1890 – 2 September 1969), colloquially known as Uncle Ho (Bác Hồ) among other aliases and sobriquets, was a Vietnamese revolutionary and politician who served as the founder and first president of the Democratic Republic of Vietnam from 1945 until his death in 1969, and as its first prime minister from 1945 to 1955. Ideologically a Marxist–Leninist, he founded the Indochinese Communist Party in 1930 and its successor Workers' Party of Vietnam (later the Communist Party of Vietnam) in 1951, serving as the party's chairman until his death.\nHồ was born in Nghệ An province in French Indochina, and received a French education.",
+      "latest_news": [
+        {
+          "title": "Commentary: America has taken a leaf out of China’s international relations playbook",
+          "date": "1 week ago",
+          "desc": "Trump and Xi are overcompensating for years of US-China engagement in which their predecessors made concessions, says RSIS' Benjamin Ho."
+        },
+        {
+          "title": "Benjamin Alves hops on Kim Seon Ho trend in Quezon costume",
+          "date": "1 month ago",
+          "desc": "Benjamin Alves hops on Kim Seon Ho trend in Quezon costume ... Benjamin Alves is the latest celebrity to hop on the viral Kim Seon Ho smile trend! On TikTok, TBA..."
+        },
+        {
+          "title": "Commentary: With Trump back in office, the world can no longer free-ride on American goodwill",
+          "date": "4 months ago",
+          "desc": "US President Donald Trump will likely demand greater contribution from countries in defence and security matters, says Benjamin Ho of the S Rajaratnam..."
+        }
+      ],
+      "education": [],
+      "jobs": []
+    },
+    "Rosemary Tan": {
+      "wikipedia_summary": "Veredus Laboratories is a medical device company in Singapore specializing in developing portable diagnostic tool kits.\nVeredus Laboratories was founded in 2003 by Dr. Rosemary Tan.",
+      "latest_news": [
+        {
+          "title": "How biotech has the potential to prevent pandemics",
+          "date": "8 hours ago",
+          "desc": "Leyden Labs acquired a local company, CoV Biotechnology, and is developing a nasal spray to prevent respiratory infection altogether."
+        },
+        {
+          "title": "Board of Education Recognizes SAT Perfect Score Student, Educators and ESL Professionals of the Year",
+          "date": "3 months ago",
+          "desc": "West Orange High School senior Sahli Negassi was recognized for receiving a perfect SAT score and Educators and Educational Service Professionals of the Year..."
+        },
+        {
+          "title": "Vlogger Rosmar Tan withdraws Manila councilor bid",
+          "date": "4 months ago",
+          "desc": "Content creator Rosmar Tan will no longer push her through with her bid for councilor in the City of Manila."
+        }
+      ],
+      "education": [
+        "University of Calgary B.Sc. unknown"
+      ],
+      "jobs": [
+        "Veredus Laboratories CEO & Founder"
+      ]
+    }
+  }
+}

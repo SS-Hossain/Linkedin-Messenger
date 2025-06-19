@@ -1,0 +1,85 @@
+{
+  "description": "Instacart is a grocery delivery company that offers online grocery delivery service.",
+  "company_overview": "Instacart appointed Chris Rogers, a former Apple Canada leader, as CEO, replacing outgoing CEO Fidji Simo.",
+  "headquarters_location": "California, United States, North America",
+  "founder_names": ["Apoorva Mehta", "Brandon Leonardo", "Max Mullen"],
+  "industry_categories": [
+    "Delivery Service",
+    "E-Commerce",
+    "Grocery",
+    "Shopping"
+  ],
+  "news": "Study finds no significant price hikes from digital shelf labels. Lawmakers and consumers remain skeptical of dynamic pricing risks. Digital tags speed up pricing changes and may reduce food waste. U.S. adoption lags Europe, but major chains like Walmart are expanding rollout.“It’s corporations vs. the humans,” said Dan Gallant, who works in sports media in Edmonton, Canada. Lawmakers in Rhode Island and Maine have introduced bills to limit the use of digital labels. In Arizona, Democratic state Rep. Cesar Aguilar recently introduced a bill that would ban them altogether. A study published in late May found that digital labels don't lead to price increases. Researchers looked at prices between 2019 and 2024 at an unnamed grocery chain that began using digital labels in October 2022. They found that temporary price increases affected 0.005% of products on any given day before electronic shelf labels were introduced. That share increased by only 0.0006 percentage points after digital labels were installed. Only around 5% to 10% of U.S. supermarkets now have electronic labels, compared to 80% in Europe. The tiny screens cost between $5 and $20, but every product a store sells needs one. Shoppers watch grocery prices closely, and stores don’t want to risk angering them. Kroger is expanding the use of digital labels this year after testing them at 20 stores. Whole Foods is testing the labels in nearly 50 stores. Walmart says it used to take employees two days to change paper price labels on the 120,000 items it has in a typical store. Walmart hopes to have digital price labels at 2,300 U.S. stores by 2026. Kroger says prices shown on its digital labels are not connected to any sort of facial recognition technology. Arizona lawmaker says he opposes the transition to digital labels because he thinks they will cost jobs. Kroger says its stem has reduced more than 250 tons of food waste annually. Retailer: It’s about working smarter, not harder, and being able to use that labor in better ways. lex Solutions’ Oren said she doesn’t think cutting labor costs is the main reason stores deploy digital price tags. AP Writers Anne D’Innocenzio in New York and Sejal Govindarao in Phoenix contributed.",
+  "founder_info": {
+    "Apoorva Mehta": {
+      "wikipedia_summary": "Apoorva Mehta (born 1986) is a billionaire Canadian-American businessman and the founder of Instacart and Cloud Health Systems. As of September 2023 he had a net worth of $1.3 billion, owing to his 10% ownership share of Instacart and his stake in Cloud Health Systems.\n\n\n== Biography ==\n\n\n=== Early life and education ===\nMehta was born in 1986 in Jodhpur, India.",
+      "latest_news": [
+        {
+          "title": "EXCLUSIVE: Karan Johar reflects on Dharma Productions’ journey and success; says, “When me and Apoorva Mehta look back, we both feel proud. We were proud that we were able to make so many films”",
+          "date": "1 day ago",
+          "desc": "EXCLUSIVE: Karan Johar reflects on Dharma Productions' journey and success; says, “When me and Apoorva Mehta look back, we both feel proud."
+        },
+        {
+          "title": "Wave Summit 2025 | Vinod Bhanushali and Apoorva Mehta on Government's Support for Creative Industry",
+          "date": "1 month ago",
+          "desc": "In Waves 2025, NewsX interviews film producer Vinod Bhanushali and CEO of Dharma Entertainment Apoorva Mehta, discussing the government's significant steps..."
+        },
+        {
+          "title": "Karan Johar, Akshay Kumar & Apoorva Mehta Arrives For Press Conference Of Kesari Chapter 2",
+          "date": "1 month ago",
+          "desc": "Karan Johar, Akshay Kumar & Apoorva Mehta Arrives For Press Conference Of Kesari Chapter 2. #KesariChapter2PressConference #KaranJohar #AkshayKumar #..."
+        }
+      ],
+      "education": ["University of Waterloo BASc Electrical Engineering"],
+      "jobs": ["Blackberry", "Instacart", "Amazon", "Qualcomm"]
+    },
+    "Brandon Leonardo": {
+      "wikipedia_summary": "Maplebear Inc., doing business as Instacart, is an American retail media and delivery company based in San Francisco that operates a grocery delivery and pick-up service in the United States and Canada accessible via a website and mobile app. It allows customers to order groceries, and alcohol where legal, from participating retailers with the shopping being done by a personal shopper, who picks, packs, and delivers the order within the customer's designated time frame.\nThe company offers service from over 1,800 retailers covering more than 100,000 grocery stores, and works with over 7,000 consumer packaged goods brands.",
+      "latest_news": [
+        {
+          "title": "Trailer for movie filmed in Sacramento and starring Leonardo DiCaprio released",
+          "date": "2 months ago",
+          "desc": "The trailer for a movie that was filmed in Downtown Sacramento last year and stars Leonardo DiCaprio has been released."
+        },
+        {
+          "title": "Movie magic: Life on set of thriller filmed in East Greenwich staring Hayden Panettiere",
+          "date": "4 months ago",
+          "desc": "A local production company teamed up with Leonardo DiCaprio's Appian Way Productions to film a psychological thriller starring Hayden Panettiere."
+        },
+        {
+          "title": "'Sleepwalker': RI company, Leonardo DiCaprio film Hayden Panettiere movie in RI",
+          "date": "4 months ago",
+          "desc": "Hair and makeup stylist Lori Grenier touches up the look of star Hayden Panettiere during filming of \"Sleepwalker\" Saturday in East Greenwich."
+        }
+      ],
+      "education": ["San Jose State University BS Computer Science"],
+      "jobs": ["Instacart Co-founder", "Pictacular"]
+    },
+    "Max Mullen": {
+      "wikipedia_summary": "Maplebear Inc., doing business as Instacart, is an American retail media and delivery company based in San Francisco that operates a grocery delivery and pick-up service in the United States and Canada accessible via a website and mobile app. It allows customers to order groceries, and alcohol where legal, from participating retailers with the shopping being done by a personal shopper, who picks, packs, and delivers the order within the customer's designated time frame.\nThe company offers service from over 1,800 retailers covering more than 100,000 grocery stores, and works with over 7,000 consumer packaged goods brands.",
+      "latest_news": [
+        {
+          "title": "Maxwell Scott Mullen | Obituaries",
+          "date": "1 month ago",
+          "desc": "SENECA, S.C. — Maxwell Scott Mullen was born in Greenville, S.C. in August 2003. Max grew up having a really close relationship with and is survived by his..."
+        },
+        {
+          "title": "The Seed 100: The best early-stage investors of 2025",
+          "date": "1 month ago",
+          "desc": "Business Insider's annual Seed 100 list recognizes the early-stage investors who provide crucial support to budding startups."
+        },
+        {
+          "title": "‘F*** school’: College quitters celebrate startup dreams at ‘dropout graduation’",
+          "date": "1 month ago",
+          "desc": "An inaugural commencement ceremony at San Francisco's Marina Theater Sunday honored a 'room full of exceptions."
+        }
+      ],
+      "education": [
+        "USC Marshall School of Business unknown unknown",
+        "University of Southern California BS Business Administration - Entrepreneurship",
+        "USC Marshall School of Business BS Entrepreneurship"
+      ],
+      "jobs": ["Sprout", "Schematic", "Location Labs", "Instacart Co-Founder"]
+    }
+  }
+}
