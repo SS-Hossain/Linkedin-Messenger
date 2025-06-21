@@ -51,10 +51,13 @@ SAASQUATCH_API_BASE=http://localhost:8000
 ```
 ## 🧪 Run Locally
 - 1. Start the FastAPI backend:
-```uvicorn main:app --reload
+  
+```
+uvicorn main:app --reload
 ```
 - 2. In another terminal, run the Streamlit frontend:
-```streamlit run app.py
+```
+streamlit run app.py
 ```
 ## How It Works
 - User enters a company name (e.g. "Airbnb")
