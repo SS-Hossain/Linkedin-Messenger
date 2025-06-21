@@ -72,6 +72,8 @@ Noted Airbnb’s push into luxury rentals. How are you balancing brand trust whi
 
 ##  License
 MIT License
+
+
 Let me know if you want the full `README.md` file with this included — I can generate the entire file for you.
 
 
