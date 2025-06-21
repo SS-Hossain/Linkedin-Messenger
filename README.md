@@ -25,7 +25,7 @@ Linkedin-Messenger/
 ├── data_utils.py          # Extracts structured info from JSON
 ├── prompt_template.py     # Defines prompt and example messages
 ├── .env                   # API keys and base URL
-├── linkedin_messages.csv  # Saved message log
+├── messages.csv  # Saved message log
 ├── Json Files/            # All company JSON data files
 │   ├── airbnb.json
 │   ├── databricks.json
