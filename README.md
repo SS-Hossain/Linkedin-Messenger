@@ -30,7 +30,7 @@ Linkedin-Messenger/
 │   ├── airbnb.json
 │   ├── databricks.json
 │   └── ...
-
+```
 
 ## ⚙️ Requirements
 
@@ -38,23 +38,24 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-
+```
 If requirements.txt is missing, manually install:
 ```bash
 pip install streamlit fastapi uvicorn python-dotenv requests pandas
-
+```
 ## Environment Setup
 Create a .env file in the root directory:
 ```env
 OPENROUTER_API_KEY=your_openrouter_api_key
 SAASQUATCH_API_BASE=http://localhost:8000
-
+```
 ## 🧪 Run Locally
 - 1. Start the FastAPI backend:
 ```uvicorn main:app --reload
+```
 - 2. In another terminal, run the Streamlit frontend:
 ```streamlit run app.py
-
+```
 ## How It Works
 - User enters a company name (e.g. "Airbnb")
 - /api/fetch-company-data fetches the corresponding airbnb.json file
